@@ -1,0 +1,6 @@
+.vs
+*.sin
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
